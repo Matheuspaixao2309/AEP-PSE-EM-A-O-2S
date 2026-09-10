@@ -16,6 +16,19 @@ O projeto PSE em Ação consiste em uma aplicação em linguagem C, executada em
 
 Nesta primeira etapa, foram definidos o problema, os requisitos, os fluxogramas, os pseudocódigos e o planejamento das sprints.
 
+## Conteúdo da documentação
+
+A documentação da primeira etapa contempla:
+
+- Contextualização e fundamentação sobre o Programa Saúde na Escola (PSE);
+- Questão norteadora, objetivos e justificativa;
+- Delimitação do escopo e identificação dos usuários;
+- Requisitos funcionais e não funcionais;
+- Fluxograma geral e fluxograma detalhado;
+- Pseudocódigos;
+- Planejamento das sprints;
+- Riscos do projeto.
+
 ## Documentação
 
 A documentação completa da AEP está disponível no arquivo abaixo:
