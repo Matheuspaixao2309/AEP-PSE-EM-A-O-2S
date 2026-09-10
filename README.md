@@ -18,4 +18,6 @@ Nesta primeira etapa, foram definidos o problema, os requisitos, os fluxogramas,
 
 ## Documentação
 
-- [AEP – 1ª Entrega (PDF)](documentacao/AEP2_ABNT.pdf)
+A documentação completa da AEP está disponível no arquivo abaixo:
+
+[Visualizar AEP completa em PDF](documentacao/AEP2S_ABNT.pdf)
