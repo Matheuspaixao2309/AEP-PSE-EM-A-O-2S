@@ -18,4 +18,4 @@ Nesta primeira etapa, foram definidos o problema, os requisitos, os fluxogramas,
 
 ## Documentação
 
-O documento da primeira entrega está disponível na pasta "Documentação".
+- [AEP – 1ª Entrega (PDF)](documentacao/AEP2_ABNT.pdf)
