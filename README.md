@@ -32,6 +32,5 @@ A documentação da primeira etapa contempla:
 ## Documentação
 
 A documentação completa da AEP está disponível no arquivo abaixo:
-
-[Visualizar AEP completa em PDF](documentacao/AEP2S_ABNT_COMPLETO.pdf)
+[Visualizar AEP completa em PDF](./documentacao/AEP2S_ABNT_COMPLETO.pdf)
 
