@@ -1,8 +1,8 @@
 # PSE em Ação
 
-AEP – 2º Semestre de 2026  
+**AEP – 2º Semestre de 2026**
 
-Projeto desenvolvido para a AEP do curso de Engenharia de Software – ESOFT 2SM-B.
+Projeto desenvolvido para a AEP do curso de **Engenharia de Software – ESOFT 2SM-B**, da Universidade Unicesumar.
 
 ## Integrantes
 
@@ -12,25 +12,35 @@ Projeto desenvolvido para a AEP do curso de Engenharia de Software – ESOFT 2SM
 
 ## Proposta
 
-O projeto PSE em Ação consiste em uma aplicação em linguagem C, executada em terminal, para apoiar o planejamento e o acompanhamento de ações coletivas do Programa Saúde na Escola.
+O projeto **PSE em Ação** consiste no planejamento de uma aplicação em linguagem C, executada em terminal, para apoiar o planejamento, o registro e o acompanhamento de ações coletivas do Programa Saúde na Escola (PSE).
 
-Nesta primeira etapa, foram definidos o problema, os requisitos, os fluxogramas, os pseudocódigos e o planejamento das sprints.
+Nesta primeira etapa, foram desenvolvidos a contextualização e a definição do problema, os requisitos do sistema, os fluxogramas, os pseudocódigos, a análise dos riscos e o planejamento das sprints.
 
 ## Conteúdo da documentação
 
 A documentação da primeira etapa contempla:
 
 - Contextualização e fundamentação sobre o Programa Saúde na Escola (PSE);
-- Questão norteadora, objetivos e justificativa;
-- Delimitação do escopo e identificação dos usuários;
+- Definição do problema;
+- Questão norteadora;
+- Objetivo geral e objetivos específicos;
+- Justificativa acadêmica e social;
+- Identificação dos usuários;
+- Delimitação do escopo;
 - Requisitos funcionais e não funcionais;
-- Fluxograma geral e fluxograma detalhado;
-- Pseudocódigos;
-- Planejamento das sprints;
-- Riscos do projeto.
+- Fluxograma geral do sistema;
+- Fluxograma detalhado do cadastro de ação;
+- Pseudocódigo do menu principal;
+- Pseudocódigo do cadastro de ação;
+- Riscos do projeto;
+- Processo de desenvolvimento adotado;
+- Planejamento das sprints semanais;
+- Referências.
 
-## Documentação
+## Documentação completa
 
-A documentação completa da AEP está disponível no arquivo abaixo:
-[Visualizar AEP completa em PDF](./documentacao/AEP2S_ABNT_COMPLETO.pdf)
+Acesse o documento completo da primeira entrega da AEP:
+
+[Visualizar AEP completa em PDF](https://github.com/Matheuspaixao2309/AEP-PSE-EM-A-O-2S/blob/main/documentacao/AEP2S_ABNT_COMPLETO.pdf)
+
 
