@@ -1,6 +1,6 @@
 # PSE em Ação
 
-AEP 2026 – 2º semestre
+AEP – 2º Semestre de 2026  
 
 Projeto desenvolvido para a AEP do curso de Engenharia de Software – ESOFT 2SM-B.
 
@@ -33,4 +33,5 @@ A documentação da primeira etapa contempla:
 
 A documentação completa da AEP está disponível no arquivo abaixo:
 
-[Visualizar AEP completa em PDF](documentacao/AEP2S_ABNT.pdf)
+[Visualizar AEP completa em PDF](documentacao/AEP2S_ABNT_COMPLETO.pdf)
+
